@@ -10,7 +10,7 @@
     },
     "require": {
         "aura/cli": "2.*@dev",
-        "symfony/yaml": "2.8.*@dev",
+        "symfony/yaml": "4.0.*@dev",
         "illuminate/database": "5.*",
         "illuminate/view": "5.*",
         "illuminate/container": "5.*",
