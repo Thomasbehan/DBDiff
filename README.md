@@ -41,19 +41,19 @@ _Note: Make a note of where `composer.phar` is installed as we will need it late
 # Installation
 On the command-line, use `git` to clone the ssh version:
 
-	git clone git@github.com:DBDiff/DBDiff.git
+	git clone git@github.com:Thomasbehan/DBDiff.git
 
 **Or** use `git` to clone the https version:
 
-	git clone https://github.com/DBDiff/DBDiff.git
+	git clone https://github.com/Thomasbehan/DBDiff.git
 
 **Or** download the .zip archive and unzip it to a folder of your choosing e.g. dbdiff:
 
-	https://github.com/DBDiff/DBDiff/archive/master.zip
+	https://github.com/Thomasbehan/DBDiff/archive/master.zip
 
 **Or** use `composer` to include `DBDiff` as a project dependency
 
-	php composer.phar require "dbdiff/dbdiff:@dev"
+	php composer.phar require "Thomasbehan/DBDiff:@dev"
 
 # Setup
 
